@@ -2,7 +2,7 @@
 
 #1 Express 웹서버생성 - id 와 password 임의로 지정
 
-#2 login html 과
+#2 login html 에서 redirect 되도록 구성
 
 #3 Server <-> Client 연결
 
